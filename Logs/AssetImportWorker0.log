@@ -361,3 +361,608 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 687.930601 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ae5280ad91af67e2a353905758f96678') in 0.002841 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 37.888676 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Row Root B Billboard.fbx
+  artifactKey: Guid(facb05423f215eb48b32a5be68c1f444) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Row Root B Billboard.fbx using Guid(facb05423f215eb48b32a5be68c1f444) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '55b2b19cdd29bfcbdb73c189780c4872') in 0.075400 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Material/Billboard Atlas Albedo.png
+  artifactKey: Guid(59ce122b8404d674594ffcf531b663fa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Material/Billboard Atlas Albedo.png using Guid(59ce122b8404d674594ffcf531b663fa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '19587581aca67d9000000b2b74d5bbdf') in 0.121277 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Materials/Brush 6/Brush 6 Material C.mat
+  artifactKey: Guid(bb8e5cea99005d04fa4b92e0cabc2a07) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Materials/Brush 6/Brush 6 Material C.mat using Guid(bb8e5cea99005d04fa4b92e0cabc2a07) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cbe92a29e0c2a51bd87bb4f1f4f50825') in 0.102862 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Painter Wort D Billboard.fbx
+  artifactKey: Guid(57588080828785d4388a7609f32c094d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Painter Wort D Billboard.fbx using Guid(57588080828785d4388a7609f32c094d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f7aabecf2d0843c4ae0ade4491b23282') in 0.015277 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Spin Reef 4.fbx
+  artifactKey: Guid(8ae0404a883b8844dbd445262512fce4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Spin Reef 4.fbx using Guid(8ae0404a883b8844dbd445262512fce4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '248a49f74e0f8f24a5942335604910c5') in 0.014841 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Painter Wort.fbx
+  artifactKey: Guid(8e3ed830e2e37044da00a255b7af56a8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Painter Wort.fbx using Guid(8e3ed830e2e37044da00a255b7af56a8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd30fb86dfbfd78b157cde34746ab72f6') in 0.016833 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Materials
+  artifactKey: Guid(94c25c4727a8c3b4fa3053548097f652) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Materials using Guid(94c25c4727a8c3b4fa3053548097f652) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2186c978b5d0cbec84a923766fb51b8a') in 0.002270 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spindlewit D Billboard.fbx
+  artifactKey: Guid(33cc33dda194f924292cbb7ba3553180) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spindlewit D Billboard.fbx using Guid(33cc33dda194f924292cbb7ba3553180) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e11b9f83ffd015912b4b6b36a39f307a') in 0.023275 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Spin Reef 6.fbx
+  artifactKey: Guid(8c6b1e707eb98b547b291717a37b145f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Spin Reef 6.fbx using Guid(8c6b1e707eb98b547b291717a37b145f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3b7cbe2b3c745ecd47b96fc901d6e9af') in 0.019609 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spin Reef 2 D Billboard.fbx
+  artifactKey: Guid(25e2ac2eff952c94092da11f3d2550c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spin Reef 2 D Billboard.fbx using Guid(25e2ac2eff952c94092da11f3d2550c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd754d178014caa85464405db6f6dfd16') in 0.017672 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Row Root C Billboard.fbx
+  artifactKey: Guid(83030b11b683dbd4e82a7a7d67b10331) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Row Root C Billboard.fbx using Guid(83030b11b683dbd4e82a7a7d67b10331) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ebbe4e7a53bd02dd08ef1e59246a03d7') in 0.017074 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.003477 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Materials/Brush 6/Brush 6 Albedo D.png
+  artifactKey: Guid(7fdb4efc4ef4a574f8807973518f6079) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Materials/Brush 6/Brush 6 Albedo D.png using Guid(7fdb4efc4ef4a574f8807973518f6079) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cd1ac09ae70842747358b0d3624ef026') in 0.023674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Assets/Models/Plants/Prefabs/Spin Reef C7.prefab
+  artifactKey: Guid(06e811f8e6f05b8409beead9592e71c3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Prefabs/Spin Reef C7.prefab using Guid(06e811f8e6f05b8409beead9592e71c3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '18ac0363c0533aaac1848e543f4675dd') in 0.012786 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.001787 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spin Reef 1 C Billboard.fbx
+  artifactKey: Guid(5639f915da3950f44ad0ae0a954645af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spin Reef 1 C Billboard.fbx using Guid(5639f915da3950f44ad0ae0a954645af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd7bc40a62fdda5fe41033065ab45573f') in 0.019424 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spin Reef 1 B Billboard.fbx
+  artifactKey: Guid(588ac3614751b4b4e9c7db5a2b33fc53) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spin Reef 1 B Billboard.fbx using Guid(588ac3614751b4b4e9c7db5a2b33fc53) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cfb50388d5f4ec123ea8bb76ec0baf74') in 0.021774 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spin Reef Flower C Billboard.fbx
+  artifactKey: Guid(89411544b2df3844d8737a58c195728c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spin Reef Flower C Billboard.fbx using Guid(89411544b2df3844d8737a58c195728c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fa791ab71321608b7ba08937b7d03fd9') in 0.021681 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Materials/Brush 6/Brush 6 Material B.mat
+  artifactKey: Guid(473d98e38aae2cf4d80615651ea5f4fc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Materials/Brush 6/Brush 6 Material B.mat using Guid(473d98e38aae2cf4d80615651ea5f4fc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'df4e8c70b0f2d3448578a481ff4b5300') in 0.012410 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Assets/Models/Plants/Prefabs/Row Root A2.prefab
+  artifactKey: Guid(6171449839304f24d804cb6eeb01b0ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Prefabs/Row Root A2.prefab using Guid(6171449839304f24d804cb6eeb01b0ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3f56c6249c375f126a3f7dbd53fa3195') in 0.007811 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Spin Reef 7.fbx
+  artifactKey: Guid(ade74727d861d4843844a8d7c18a5633) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Spin Reef 7.fbx using Guid(ade74727d861d4843844a8d7c18a5633) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '850994c15e9e5f44b1c881cebd7c27e8') in 0.013235 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spin Reef Flower B Billboard.fbx
+  artifactKey: Guid(5755bdb68ca5c0246868abda07c70f12) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spin Reef Flower B Billboard.fbx using Guid(5755bdb68ca5c0246868abda07c70f12) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '71fad0915cfeb7a501d94bf1097d2255') in 0.019167 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Mesh
+  artifactKey: Guid(d223ce35eab3cb042970c16e4c3a5ad5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Mesh using Guid(d223ce35eab3cb042970c16e4c3a5ad5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '23c3edb0a37f7f09dcc51319a685f19b') in 0.002354 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Row Root 1.fbx
+  artifactKey: Guid(0e863ff9d3d4a974992da680e6355b05) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Row Root 1.fbx using Guid(0e863ff9d3d4a974992da680e6355b05) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '15a98e218ac81b46ea328af620bb0194') in 0.015228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Assets/Models/Plants/Prefabs/Spin Reef D5.prefab
+  artifactKey: Guid(f1af79ddf0e920b4495ac2d29772baf0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Prefabs/Spin Reef D5.prefab using Guid(f1af79ddf0e920b4495ac2d29772baf0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a029615e68c9a1273cc22908c8166fb2') in 0.008768 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Spin Reef 1.fbx
+  artifactKey: Guid(5fd91a134d0610e40a8c728618ded2e5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Spin Reef 1.fbx using Guid(5fd91a134d0610e40a8c728618ded2e5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '81782eb0f022c88489ef08c4e7b5a13b') in 0.020882 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Assets/Models/Plants/Prefabs
+  artifactKey: Guid(3f6eb42adb114df4dabcef83beae8a3b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Prefabs using Guid(3f6eb42adb114df4dabcef83beae8a3b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '936c6f43bf4e619a8eb82c8ed821be98') in 0.003196 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Materials/Brush 6/Brush 6 Material D.mat
+  artifactKey: Guid(66324783c6f1b64409d95152b59aa2ef) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Materials/Brush 6/Brush 6 Material D.mat using Guid(66324783c6f1b64409d95152b59aa2ef) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '57bfda6306622e90248271c714a79454') in 0.015155 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Materials/Brush 6/Brush 6 Normal.png
+  artifactKey: Guid(421e335fd207b5c41957b33bc076b38f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Materials/Brush 6/Brush 6 Normal.png using Guid(421e335fd207b5c41957b33bc076b38f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd9064494826653341394c5335c4c961f') in 0.022281 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Spin Reef Leaf.fbx
+  artifactKey: Guid(70ded9817fb5e594ea2ad35075f93ac0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Spin Reef Leaf.fbx using Guid(70ded9817fb5e594ea2ad35075f93ac0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '439582975f3f18d1b56ab45955efda91') in 0.016767 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.003560 seconds.
+  path: Assets/Assets/Models/Plants
+  artifactKey: Guid(818a45ec9f0672f47be60c5dec5fb1be) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants using Guid(818a45ec9f0672f47be60c5dec5fb1be) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '12099c80fab89b6e35e353ac83b63fe7') in 0.002604 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Spindlewit Leaf.fbx
+  artifactKey: Guid(f065e45bdadec8a478a039e2e49cbe2d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Spindlewit Leaf.fbx using Guid(f065e45bdadec8a478a039e2e49cbe2d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'dd63ca92a85d078cf658e5e7d51a95d8') in 0.014079 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Materials/Brush 6/Brush 6 Specular.png
+  artifactKey: Guid(81a0f4555d5212146886441b8ac3ded7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Materials/Brush 6/Brush 6 Specular.png using Guid(81a0f4555d5212146886441b8ac3ded7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd53d9f11ffb8efe5ddb8dd694a7aa097') in 0.023630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Material/Billboard Normal.png
+  artifactKey: Guid(884371f278b2ce34193e0b42a8d6312d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Material/Billboard Normal.png using Guid(884371f278b2ce34193e0b42a8d6312d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'eeef3d5d0f31f14ab8549cd1bd096917') in 0.024036 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spin Reef 2 B Billboard.fbx
+  artifactKey: Guid(159ad0e138e180e4caff7753a5750e7a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spin Reef 2 B Billboard.fbx using Guid(159ad0e138e180e4caff7753a5750e7a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '81b263a495c42bb24a089f90857c9bd4') in 0.020112 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spindlewit B Billboard.fbx
+  artifactKey: Guid(98b5a959a8797884db530df7fbeb0b2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spindlewit B Billboard.fbx using Guid(98b5a959a8797884db530df7fbeb0b2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f6bf8ba2a4993298be39a1d61a21ad07') in 0.018655 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Assets/Models/Plants/Prefabs/Spin Reef D1.prefab
+  artifactKey: Guid(e0989ebe49ef0d04780b994241a8ea65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Prefabs/Spin Reef D1.prefab using Guid(e0989ebe49ef0d04780b994241a8ea65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'eed265d5cc813f9a3bdfb59cff44cbb1') in 0.009093 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spindlewit A Billboard.fbx
+  artifactKey: Guid(e66dfd1489ceb5448bb8749ed6b3d246) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spindlewit A Billboard.fbx using Guid(e66dfd1489ceb5448bb8749ed6b3d246) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'de0c2211dd5932634115e4804620f782') in 0.022025 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spin Reef 1 A Billboard.fbx
+  artifactKey: Guid(60c88fbda7cff3040ab2333771c35752) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Billboard Mesh/Brush 6/Spin Reef 1 A Billboard.fbx using Guid(60c88fbda7cff3040ab2333771c35752) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b527ea7d4c4f31e0bbc707ccbf5bb7d5') in 0.020644 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Assets
+  artifactKey: Guid(ac4d098a0ef8022759c1cdd29f0b22ca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets using Guid(ac4d098a0ef8022759c1cdd29f0b22ca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7a9753ab4b4c2ca6c54890bcdba60bae') in 0.003414 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Materials/Brush 6/Brush 6 Albedo B.png
+  artifactKey: Guid(bcd19f6362409e149a07d39865dd00ad) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Materials/Brush 6/Brush 6 Albedo B.png using Guid(bcd19f6362409e149a07d39865dd00ad) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '25b9a7ed35c5846fc7e3389b1e54ed75') in 0.015496 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Row Root 3.fbx
+  artifactKey: Guid(aa7ac0317da7f5d4c9061e21c3824563) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Row Root 3.fbx using Guid(aa7ac0317da7f5d4c9061e21c3824563) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f2c5e09ac7fc0c8fb726365c9305470a') in 0.012599 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Spin Reef 2.fbx
+  artifactKey: Guid(03294a717c1b8b64eb0a35d86a9887a1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Assets/Models/Plants/Hi Res Mesh/Brush 6/Spin Reef 2.fbx using Guid(03294a717c1b8b64eb0a35d86a9887a1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6a2caea6cdcb5c12b2139cac71a49c96') in 0.013174 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 103.661631 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(6d3c761dbab3de2af921803d9a507568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(6d3c761dbab3de2af921803d9a507568) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1f75874334a7a158b21b4bbcd4eebe3a') in 0.001117 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.905238 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(6d3c761dbab3de2af921803d9a507568) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts using Guid(6d3c761dbab3de2af921803d9a507568) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3e16ffc09a59897c07cbb671deb40aba') in 0.005715 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2.288035 seconds.
+  path: Assets/Scripts/New Folder
+  artifactKey: Guid(6c60ffb42a351eddbbd1b96b253d07b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/New Folder using Guid(6c60ffb42a351eddbbd1b96b253d07b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8c52a882b0de0194fe56d197ae6a94c9') in 0.001122 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.939169 seconds.
+  path: Assets/Scripts/New Folder
+  artifactKey: Guid(6c60ffb42a351eddbbd1b96b253d07b9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/New Folder using Guid(6c60ffb42a351eddbbd1b96b253d07b9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '68657ab1be0b21af189ed5c82d61589d') in 0.004946 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 7.034500 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(37b5705a8cd8cb64bbefaef8c99b9580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(37b5705a8cd8cb64bbefaef8c99b9580) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4955e9e84be68f092a1020dbc10983f2') in 0.000947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.444443 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(37b5705a8cd8cb64bbefaef8c99b9580) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Materials using Guid(37b5705a8cd8cb64bbefaef8c99b9580) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5fefdef11e1f777177840ab4ffbcfcc5') in 0.006155 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 13.052668 seconds.
+  path: Assets/Materials/Trans.mat
+  artifactKey: Guid(3e19cebdf9f9707f2a922af2f30c0566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Trans.mat using Guid(3e19cebdf9f9707f2a922af2f30c0566) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3c91a2de944b31fce6749efde9b5515f') in 0.284857 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.651516 seconds.
+  path: Assets/Materials/Trans.mat
+  artifactKey: Guid(3e19cebdf9f9707f2a922af2f30c0566) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Materials/Trans.mat using Guid(3e19cebdf9f9707f2a922af2f30c0566) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b72db2f159a1d42abb4e585a56725abe') in 0.005154 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 7.231680 seconds.
+  path: Assets/Materials/Trans.mat
+  artifactKey: Guid(3e19cebdf9f9707f2a922af2f30c0566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Trans.mat using Guid(3e19cebdf9f9707f2a922af2f30c0566) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '73c2a9267dbbfc046c9f3c654b2c382b') in 0.224757 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.743812 seconds.
+  path: Assets/Materials/Trans.mat
+  artifactKey: Guid(3e19cebdf9f9707f2a922af2f30c0566) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Materials/Trans.mat using Guid(3e19cebdf9f9707f2a922af2f30c0566) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '083f52c71fea81c5eabe19aa98e72c5a') in 0.010408 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 50.383453 seconds.
+  path: Assets/Scenes/ARPlants.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/ARPlants.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '003ac6202f478081ae42a064310eb8db') in 0.003413 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 6.080835 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(9f61b22fe14986a27a971d9718656cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(9f61b22fe14986a27a971d9718656cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e1e5cc1b463e6dd724cf7086dd59a39b') in 0.000750 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.904461 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(9f61b22fe14986a27a971d9718656cd1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Prefabs using Guid(9f61b22fe14986a27a971d9718656cd1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e0ce68aa6cadef3b8c5aac9f857a6e3a') in 0.005430 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.620743 seconds.
+  path: Assets/Prefabs/AR Default Plane.prefab
+  artifactKey: Guid(47d99700128f07dd6b25b90b1b3b825b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/AR Default Plane.prefab using Guid(47d99700128f07dd6b25b90b1b3b825b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd27ed13182310ef1c30d0bbdef6cb130') in 0.052798 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.873859 seconds.
+  path: Assets/Prefabs/AR Default Plane.prefab
+  artifactKey: Guid(47d99700128f07dd6b25b90b1b3b825b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Prefabs/AR Default Plane.prefab using Guid(47d99700128f07dd6b25b90b1b3b825b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9c8ee59e08c957ccdc71c3a4be058603') in 0.026732 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 51.781725 seconds.
+  path: Assets/Scripts/Plants.cs
+  artifactKey: Guid(3dd6c828748352eceb47aaa6485399b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Plants.cs using Guid(3dd6c828748352eceb47aaa6485399b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '96388ef805beced9f3e49ce37fd80c66') in 0.001234 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.296382 seconds.
+  path: Assets/Scripts/Plants.cs
+  artifactKey: Guid(3dd6c828748352eceb47aaa6485399b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/Plants.cs using Guid(3dd6c828748352eceb47aaa6485399b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5c5890bf13ac3201c7813e03a891fa95') in 0.004808 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.636 seconds
+Native extension for LinuxStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  3.212 seconds
+Domain Reload Profiling: 5844ms
+	BeginReloadAssembly (893ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (29ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (352ms)
+	RebuildCommonClasses (176ms)
+	RebuildNativeTypeToScriptingClass (46ms)
+	initialDomainReloadingComplete (146ms)
+	LoadAllAssembliesAndSetupDomain (1370ms)
+		LoadAssemblies (1457ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (192ms)
+			TypeCache.Refresh (38ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (112ms)
+			ResolveRequiredComponents (38ms)
+	FinalizeReload (3213ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1643ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (67ms)
+			SetLoadedEditorAssemblies (11ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (204ms)
+			ProcessInitializeOnLoadAttributes (1218ms)
+			ProcessInitializeOnLoadMethodAttributes (127ms)
+			AfterProcessingInitializeOnLoad (15ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (20ms)
+Refreshing native plugins compatible for Editor in 1.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4420 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (1.3 MB). Loaded Objects now: 4945.
+Memory consumption went from 148.3 MB to 147.0 MB.
+Total: 8.199249 ms (FindLiveObjects: 0.435676 ms CreateObjectMapping: 0.442412 ms MarkObjects: 5.785186 ms  DeleteObjects: 1.532495 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/Plants.cs: dc2e2fea6d1dc36663b52ec84a3b61e1 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 232f87dd983dbecb2a4e21e08eb2cef8 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 2f0ff77a95e0ac474e3e8eeba4e2f7cb -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 759c099c790ad02944df9cd31b6af446 -> 
